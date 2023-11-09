@@ -1,0 +1,25 @@
+airease
+
+user-----
+login
+
+
+customer-------
+signup
+view flights
+book flight
+cancel flights
+
+
+airline-------
+add flights
+view flights
+delete flights 
+update flights
+
+
+executive------- 
+add airlines
+
+
+

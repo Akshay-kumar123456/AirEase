@@ -1,0 +1,15 @@
+package com.springboot.main.service;
+
+import org.springframework.stereotype.Service;
+
+import com.springboot.main.model.Customer;
+
+@Service
+public class CustomerService {
+
+	public Customer insert(Customer customer) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
